@@ -1,4 +1,7 @@
 hello this is remote branch 
 this is 2nd commit 
+<<<<<<< HEAD
 this is 3rd commit 
+=======
+>>>>>>> 7b64290... 2nd commit in branch
 
